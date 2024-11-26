@@ -1,3 +1,4 @@
+# pasos para crear repo local linked con remoto
 …or create a new repository on the command line
 echo "# GitActions" >> README.md
 git init
